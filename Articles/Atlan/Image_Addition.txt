@@ -1,0 +1,49 @@
+1. Data Protection and Security
+
+    Description: An image illustrating secure data handling or encryption, such as a locked data vault or shield icon over a data network.
+    Purpose: Emphasizes the importance of data security in compliance management.
+
+2. Compliance Framework
+
+    Description: A flowchart or diagram that visually represents a data compliance framework or data governance structure.
+    Purpose: Helps break down complex concepts such as roles, responsibilities, and the relationship between tools and regulations.
+
+3. Key Regulations in Retail
+
+    Description: A visual that lists major regulations like GDPR, CCPA, and PCI DSS with icons or small infographics explaining the core principles.
+    Purpose: Adds clarity on the key regulations and how they impact the retail sector.
+
+4. Global Compliance Map
+
+    Description: A map showing the reach of data regulations like GDPR (EU), CCPA (California), and other international compliance requirements.
+    Purpose: Visualizes the global nature of compliance, which is especially relevant for international retail businesses.
+
+5. Customer Trust and Data Privacy
+
+    Description: A picture representing customer trust, such as an image of a handshake, a secure online shopping experience, or happy customers.
+    Purpose: Reinforces the idea that data compliance builds trust and strengthens customer relationships.
+
+6. Omnichannel Retail Experience
+
+    Description: A diagram or illustration showing an omnichannel retail experience (e.g., in-store, online, and mobile) connected with secure data.
+    Purpose: Demonstrates the operational importance of compliance in various retail channels.
+
+7. Risk of Non-Compliance
+
+    Description: A graphic illustrating potential risks of non-compliance, such as fines, reputational damage, and operational disruption (e.g., broken chains, warning symbols).
+    Purpose: Highlights the tangible consequences of non-compliance.
+
+8. Automated Compliance Tools
+
+    Description: An image showing automated compliance tools or dashboards that monitor and report compliance status.
+    Purpose: Reinforces the use of technology for efficient compliance management.
+
+9. Team Collaboration for Compliance
+
+    Description: A photo of a diverse team of professionals (compliance officers, IT experts, and legal teams) working together at a table with a laptop, papers, and compliance tools.
+    Purpose: Emphasizes the cross-functional collaboration required for effective compliance.
+
+10. Compliance Checklist or Audit
+
+    Description: An image of a checklist or audit report that shows the compliance verification process.
+    Purpose: Demonstrates the practical steps of data compliance management and auditing.
